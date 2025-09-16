@@ -9,3 +9,6 @@
 
 
 - numbers  , booleans  ,  real   , complex numbers  , and  , or  , not operators
+- done strings , index , slices
+- tuples , membership testing 
+- lists 
