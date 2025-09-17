@@ -13,3 +13,5 @@
 - tuples , membership testing 
 - lists 
 - operator overloading and byte array 
+- dictionary 
+- sets
