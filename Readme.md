@@ -15,3 +15,8 @@
 - operator overloading and byte array 
 - dictionary 
 - sets
+
+## Conditional done
+- study about if else
+- then also mutilpe conditions with elif and also with ternery which is so amazing
+- also use case and match
