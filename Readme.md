@@ -20,3 +20,9 @@
 - study about if else
 - then also mutilpe conditions with elif and also with ternery which is so amazing
 - also use case and match
+
+## loops
+- for loop
+- while loop
+- break and continue
+- walrus operator
