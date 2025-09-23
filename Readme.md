@@ -26,3 +26,7 @@
 - while loop
 - break and continue
 - walrus operator
+
+
+### to make virtual enviroment = python -m venv venv
+### to active window script = venv\Scripts\activate
