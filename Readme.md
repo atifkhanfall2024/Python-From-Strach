@@ -28,5 +28,12 @@
 - walrus operator
 
 
+## functions 
+- local and global scope
+- how to handle multiple params
+- detail overview of function
+
+
 ### to make virtual enviroment = python -m venv venv
 ### to active window script = venv\Scripts\activate
+### to start server : uvicorn prac:app
