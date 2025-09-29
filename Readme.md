@@ -32,6 +32,8 @@
 - local and global scope
 - how to handle multiple params
 - detail overview of function
+- handling params
+
 
 
 ### to make virtual enviroment = python -m venv venv
