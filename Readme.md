@@ -33,6 +33,12 @@
 - how to handle multiple params
 - detail overview of function
 - handling params
+- multilple args
+- diff bw args and  keyward args
+- anonymous functions
+- recursion
+- pure vs impure 
+- import , modules , and init file
 
 
 
