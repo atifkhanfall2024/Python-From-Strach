@@ -40,6 +40,21 @@
 - pure vs impure 
 - import , modules , and init file
 
+### comprehensions
+- is the concise way of writing code for creating list sets dictionary and generator in python using signle line of code 
+
+- types lists , sets, generator , dictionary 
+
+#### List => 
+- list are represent in below format
+- [expression for item in iterable if condition]
+
+- sets
+- dictionary
+
+
+
+
 
 
 ### to make virtual enviroment = python -m venv venv
