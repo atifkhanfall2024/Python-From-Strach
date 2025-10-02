@@ -53,6 +53,16 @@
 - dictionary
 
 
+### OOP
+- object oriented programming
+- Class
+- object
+- namespace
+- Attributes Shadowing
+- methods
+
+
+
 
 
 
