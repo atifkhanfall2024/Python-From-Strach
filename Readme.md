@@ -60,7 +60,13 @@
 - namespace
 - Attributes Shadowing
 - methods
-
+- constructor
+- deeply cover inheritence
+- how we access base class we use 3 method
+    - explicit call
+    - super()
+    - code duplication
+- static method and class method
 
 
 

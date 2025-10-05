@@ -1,24 +1,24 @@
 # inheritance
 
- class Teacher():
+ #***#class Teacher():
 
-     def Subject(self):
-         print("Am Teach Programming")
+     #def Subject(self):
+      #   print("Am Teach Programming")
 
- class Student(Teacher):
-    def learning(self):
-        print("AM learning from you sir")
+ #class Student(Teacher):
+   # def learning(self):
+      #  print("AM learning from you sir")
 
- s1 = Student()
+ #s1 = Student()
 
- print(s1.Subject())
- print(s1.learning())
+ #print(s1.Subject())
+ #print(s1.learning())
 
 
 class Person():
     def __init__(self , name):
         self.name = name
-
+   
     def Display(self):
         print(f"Name is {self.name}")
 
