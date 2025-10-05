@@ -67,10 +67,12 @@
     - super()
     - code duplication
 - static method and class method
+- getter , setter , property decoder
 
 
-
-
+### Error Handling
+- we use try except to handle errors
+- finally  , if , else used to handle keywards
 
 
 ### to make virtual enviroment = python -m venv venv
