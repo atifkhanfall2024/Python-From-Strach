@@ -75,6 +75,11 @@
 - finally  , if , else used to handle keywards
 
 
+### working with asyncio async await
+- all code will exectue in non blocking io
+- study about event loop which will be really amazing 
+
+
 ### to make virtual enviroment = python -m venv venv
 ### to active window script = venv\Scripts\activate
 ### to start server : uvicorn prac:app
