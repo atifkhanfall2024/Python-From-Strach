@@ -80,6 +80,13 @@
 - study about event loop which will be really amazing 
 
 
+
+# Study About Pydantic
+- pydantic is python library used for schema validation and data modeling
+
+
+
+
 ### to make virtual enviroment = python -m venv venv
 ### to active window script = venv\Scripts\activate
 ### to start server : uvicorn prac:app
