@@ -84,6 +84,10 @@
 # Study About Pydantic
 - pydantic is python library used for schema validation and data modeling
 
+# field and model validators
+- we use validators to make custom logics
+- filed validators use to check one value
+- model validator use to check two fileds
 
 
 
