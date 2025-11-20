@@ -91,6 +91,7 @@
 - computed field actually used to give calcaulated values
 - Advance validations
 - nested models
+- serailization
 
 ### to make virtual enviroment = python -m venv venv
 ### to active window script = venv\Scripts\activate
