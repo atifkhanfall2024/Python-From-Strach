@@ -93,6 +93,28 @@
 - nested models
 - serailization
 
+
+
+## LLM
+- Today i study deeply about LLM 
+- LLM is basically an Ai system which is used to understand , generate human language
+
+### How LLM works
+- think about GPT => Generative Pre-trained Transformer 
+- Generative => mean that when we give an input to an llm it give to him response or generate it
+- Pre-Trained => mean that LLM is trained on some previous data
+- Transformer => is noting but real objects which are used to transform the data (claude , gemini , gpt etc)
+- main work of transformer to take input tokens and give to you predicted output token
+
+
+## Tokenization
+- study about tokenization that how actually transformer work with tokenizations
+
+
+
+
+
+
 ### to make virtual enviroment = python -m venv venv
 ### to active window script = venv\Scripts\activate
 ### to start server : uvicorn prac:app
