@@ -1,0 +1,61 @@
+# --------------------------
+# Python specific
+# --------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pycache/
+*.so
+
+# --------------------------
+# Virtual Environment
+# --------------------------
+venv/
+env/
+ENV/
+.venv/
+.env/
+# any folder containing virtual environment
+
+# --------------------------
+# IDE / Editor specific
+# --------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --------------------------
+# OS generated files
+# --------------------------
+.DS_Store
+Thumbs.db
+
+# --------------------------
+# Logs and databases
+# --------------------------
+*.log
+*.sqlite3
+*.db
+
+# --------------------------
+# Python packaging
+# --------------------------
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# --------------------------
+# Secrets / Keys
+# --------------------------
+# Any file containing secrets
+API_INTEGRATION/.env
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
